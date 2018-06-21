@@ -1,0 +1,5 @@
+#node modules
+node_modules
+#logs
+api/security/logs
+api/nonSecureMicroServices/logs
