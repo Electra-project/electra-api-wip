@@ -1,0 +1,200 @@
+2018-06-15T07:35:17.639Z info: user [object Object]
+2018-06-15T07:36:03.111Z error: user [object Object]
+2018-06-16T08:35:48.570Z error: 404 - undefined
+2018-06-16T08:36:30.222Z error: 404 - undefined
+2018-06-16T08:39:33.059Z error: 404 - undefined
+2018-06-16T08:39:55.654Z error: 404 - undefined
+2018-06-16T08:42:42.921Z error: Invalid address or Address not found
+2018-06-16T08:49:14.332Z error: Invalid address or Address not found
+2018-06-16T10:03:22.091Z error: Invalid address or Address not found
+2018-06-16T10:03:35.714Z error: Invalid address or Address not found
+2018-06-16T10:52:43.495Z error: count is not defined
+2018-06-16T10:58:37.324Z error: 404 - undefined
+2018-06-16T10:59:39.291Z error: 404 - undefined
+2018-06-16T11:00:14.580Z error: 404 - undefined
+2018-06-16T11:02:08.843Z error: 404 - undefined
+2018-06-16T11:05:56.608Z error: Invalid address or Address not found
+2018-06-16T11:07:30.346Z error: An Error occured, possibily due to invalid address
+2018-06-16T11:08:06.103Z error: An Error occured, possibily due to invalid address
+2018-06-16T11:08:16.742Z error: An Error occured, possibily due to invalid address
+2018-06-16T11:08:23.183Z error: An Error occured, possibily due to invalid address
+2018-06-16T11:08:57.286Z error: An Error occured, possibily due to invalid address
+2018-06-16T11:09:01.978Z error: An Error occured, possibily due to invalid address
+2018-06-16T11:10:10.251Z error: Invalid address or Address not found
+2018-06-16T11:16:28.018Z error: Invalid address or Address not found
+2018-06-16T11:16:45.197Z error: 404 - undefined
+2018-06-16T11:17:01.618Z error: 404 - undefined
+2018-06-16T11:18:14.132Z error: 404 - undefined
+2018-06-16T11:18:33.281Z error: 404 - undefined
+2018-06-16T11:18:33.283Z error: An Error occured, possibily due to invalid address
+2018-06-16T11:18:51.365Z error: 404 - undefined
+2018-06-16T11:18:51.368Z error: An Error occured, possibily due to invalid address
+2018-06-16T11:29:38.877Z error: 404 - undefined
+2018-06-16T11:29:38.880Z error: An Error occured, possibily due to invalid address
+2018-06-16T11:29:44.582Z error: 404 - undefined
+2018-06-16T11:29:44.583Z error: An Error occured, possibily due to invalid address
+2018-06-16T11:36:58.201Z error: Invalid address or Address not found
+2018-06-19T10:57:01.417Z error: E11000 duplicate key error collection: electra.users index: email_1 dup key: { : "sagar3agrawal@sundaypyjamas.com" }
+2018-06-19T11:31:37.966Z error: failed to reconnect after 30 attempts with interval 1000 ms
+2018-06-19T12:28:29.901Z error: failed to reconnect after 30 attempts with interval 1000 ms
+2018-06-19T12:35:25.158Z error: Topology was destroyed
+2018-06-19T12:35:27.412Z error: Topology was destroyed
+2018-06-19T12:45:15.543Z error: failed to reconnect after 30 attempts with interval 1000 ms
+2018-06-19T12:45:15.543Z error: failed to reconnect after 30 attempts with interval 1000 ms
+2018-06-19T12:45:15.543Z error: failed to reconnect after 30 attempts with interval 1000 ms
+2018-06-19T12:48:19.361Z error: There was a failure in database connection, Try again after some time
+2018-06-19T12:49:53.043Z error: There was a failure in database connection, Try again after some time
+2018-06-19T12:50:05.614Z error: There was a failure in database connection, Try again after some time
+2018-06-19T12:50:47.721Z error: There was a failure in database connection, Try again after some time
+2018-06-19T12:51:00.156Z error: There was a failure in database connection, Try again after some time
+2018-06-19T12:57:58.045Z error: There was a failure in database connection, Try again after some time
+2018-06-19T13:21:51.926Z error: User not found
+2018-06-19T13:27:32.185Z error: ciphertext is not defined
+2018-06-19T13:32:18.341Z error: ciphertext is not defined
+2018-06-19T13:32:20.338Z error: ciphertext is not defined
+2018-06-19T13:33:01.194Z error: Please entter the correct password.
+2018-06-19T13:34:56.493Z error: bytes is not defined
+2018-06-19T13:35:16.508Z error: Assignment to constant variable.
+2018-06-19T13:35:48.494Z error: Please entter the correct password.
+2018-06-19T15:21:48.058Z error: The Entered OTP is not valid
+2018-06-19T15:22:13.359Z error: No such user exist with the email address:  sagar2agrawal@gmail.com
+2018-06-19T15:22:35.893Z error: email.sendmail is not a function
+2018-06-19T15:40:26.513Z error: The Entered OTP is not valid
+2018-06-19T15:46:45.395Z error: The Entered OTP is not valid
+2018-06-19T16:12:08.970Z error: Please entter the correct password.
+2018-06-19T16:25:10.929Z error: Please entter the correct password.
+2018-06-19T16:25:11.086Z error: Please entter the correct password.
+2018-06-19T16:25:34.857Z error: Please entter the correct password.
+2018-06-19T16:25:35.902Z error: Please entter the correct password.
+2018-06-19T16:25:36.633Z error: The user is blocked, wait for 5 minutes to be able to login again
+2018-06-19T16:25:37.249Z error: Please entter the correct password.
+2018-06-19T16:25:38.190Z error: Please entter the correct password.
+2018-06-19T16:25:38.689Z error: Please entter the correct password.
+2018-06-19T16:25:39.198Z error: Please entter the correct password.
+2018-06-19T16:25:39.984Z error: Please entter the correct password.
+2018-06-19T16:25:40.623Z error: Please entter the correct password.
+2018-06-19T16:25:41.170Z error: Please entter the correct password.
+2018-06-19T16:25:41.366Z error: Please entter the correct password.
+2018-06-19T16:25:41.720Z error: Please entter the correct password.
+2018-06-19T16:25:41.940Z error: Please entter the correct password.
+2018-06-19T16:25:42.125Z error: Please entter the correct password.
+2018-06-19T16:25:42.322Z error: Please entter the correct password.
+2018-06-19T16:25:42.508Z error: Please entter the correct password.
+2018-06-19T16:25:42.689Z error: Please entter the correct password.
+2018-06-19T16:25:42.862Z error: Please entter the correct password.
+2018-06-19T16:25:43.049Z error: Please entter the correct password.
+2018-06-19T16:25:43.232Z error: Please entter the correct password.
+2018-06-19T16:25:43.403Z error: Please entter the correct password.
+2018-06-19T16:25:43.585Z error: Please entter the correct password.
+2018-06-19T16:25:43.755Z error: Please entter the correct password.
+2018-06-19T16:25:43.926Z error: Please entter the correct password.
+2018-06-19T16:25:44.141Z error: Please entter the correct password.
+2018-06-19T16:25:45.082Z error: Please entter the correct password.
+2018-06-19T16:25:45.301Z error: Please entter the correct password.
+2018-06-19T16:25:45.531Z error: Please entter the correct password.
+2018-06-19T16:26:36.499Z error: The user is blocked, wait for 5 minutes to be able to login again
+2018-06-19T16:26:42.251Z error: The user is blocked, wait for 5 minutes to be able to login again
+2018-06-19T17:07:57.778Z error: Assignment to constant variable.
+2018-06-19T17:09:24.037Z error: Assignment to constant variable.
+2018-06-19T17:50:42.215Z error: The user has reached the device limit of 5 for different sessions
+2018-06-19T17:51:50.234Z error: The user has reached the device limit of 5 for different sessions
+2018-06-19T17:51:51.401Z error: The user has reached the device limit of 5 for different sessions
+2018-06-19T17:51:52.368Z error: The user has reached the device limit of 5 for different sessions
+2018-06-19T17:55:53.746Z error: The user has reached the device limit of 5 for different sessions
+2018-06-19T17:57:52.092Z error: The user has reached the device limit of 5 for different sessions
+2018-06-19T18:19:22.075Z error: The user has reached the device limit of 5 for different sessions
+2018-06-19T18:19:49.460Z error: The user has reached the device limit of 5 for different sessions
+2018-06-19T19:10:17.823Z error: User not found.
+2018-06-19T19:13:32.616Z error: Please entter the correct password.
+2018-06-19T19:13:34.947Z error: Please entter the correct password.
+2018-06-19T19:13:35.733Z error: Please entter the correct password.
+2018-06-19T19:13:36.348Z error: Please entter the correct password.
+2018-06-19T19:13:36.938Z error: The user is blocked, wait for 5 minutes to be able to login again
+2018-06-19T19:19:09.997Z error: The Entered OTP is not valid
+2018-06-19T19:27:44.244Z error: User not found.
+2018-06-19T19:27:51.675Z error: User not found.
+2018-06-20T05:22:32.749Z error: Error: connect ECONNREFUSED 0.0.0.0:5788
+2018-06-20T05:22:35.986Z error: Error: connect ECONNREFUSED 0.0.0.0:5788
+2018-06-20T05:23:29.590Z error: Error: read ECONNRESET
+2018-06-20T05:23:32.315Z error: Error: read ECONNRESET
+2018-06-20T05:23:33.278Z error: Error: read ECONNRESET
+2018-06-20T05:23:33.439Z error: Error: read ECONNRESET
+2018-06-20T05:23:33.609Z error: Error: read ECONNRESET
+2018-06-20T05:23:33.975Z error: Error: read ECONNRESET
+2018-06-20T05:23:34.164Z error: Error: read ECONNRESET
+2018-06-20T05:23:34.348Z error: Error: read ECONNRESET
+2018-06-20T05:23:34.547Z error: Error: read ECONNRESET
+2018-06-20T05:23:34.716Z error: Error: read ECONNRESET
+2018-06-20T05:23:34.892Z error: Error: read ECONNRESET
+2018-06-20T05:23:35.080Z error: Error: read ECONNRESET
+2018-06-20T05:23:35.262Z error: Error: read ECONNRESET
+2018-06-20T05:23:35.455Z error: Error: read ECONNRESET
+2018-06-20T05:23:55.589Z error: User not found.
+2018-06-20T05:23:55.750Z error: User not found.
+2018-06-20T05:23:57.290Z error: User not found.
+2018-06-20T05:24:15.842Z error: User validation failed: invalidLogin.count: Cast to Number failed for value "NaN" at path "invalidLogin.count"
+2018-06-20T05:25:40.617Z error: User validation failed: invalidLogin.count: Cast to Number failed for value "NaN" at path "invalidLogin.count"
+2018-06-20T05:27:47.424Z error: User validation failed: invalidLogin.count: Cast to Number failed for value "NaN" at path "invalidLogin.count"
+2018-06-20T05:27:50.067Z error: User validation failed: invalidLogin.count: Cast to Number failed for value "NaN" at path "invalidLogin.count"
+2018-06-20T05:28:59.679Z error: User validation failed: invalidLogin.count: Cast to Number failed for value "NaN" at path "invalidLogin.count"
+2018-06-20T05:29:26.823Z error: User validation failed: invalidLogin.count: Cast to Number failed for value "NaN" at path "invalidLogin.count"
+2018-06-20T05:29:56.488Z error: User validation failed: invalidLogin.count: Cast to Number failed for value "NaN" at path "invalidLogin.count"
+2018-06-20T05:31:16.795Z error: User validation failed: invalidLogin.count: Cast to Number failed for value "NaN" at path "invalidLogin.count"
+2018-06-20T05:33:54.977Z error: Please entter the correct password.
+2018-06-20T05:39:32.564Z error: The Entered OTP is not valid
+2018-06-20T06:17:03.809Z error: The Entered OTP is not valid
+2018-06-20T06:17:33.767Z error: The Entered OTP is not valid
+2018-06-20T08:17:38.947Z error: Invalid address or Address not found
+2018-06-20T08:25:24.527Z error: Invalid address or Address not found
+2018-06-20T08:34:15.057Z error: Cannot read property 'status' of undefined
+2018-06-20T08:34:18.943Z error: Invalid address or Address not found
+2018-06-20T08:35:26.769Z error: Cannot read property 'status' of undefined
+2018-06-20T08:35:53.108Z error: Cannot read property 'status' of undefined
+2018-06-20T08:36:54.049Z error: Invalid address or Address not found
+2018-06-20T08:36:57.343Z error: Cannot read property 'status' of undefined
+2018-06-20T08:38:04.882Z error: Invalid address or Address not found
+2018-06-20T08:38:05.675Z error: An Error occured, possibily due to invalid address
+2018-06-20T08:42:56.918Z error: An Error occured, possibily due to invalid address
+2018-06-20T08:42:57.885Z error: Invalid address or Address not found
+2018-06-20T08:52:39.681Z error: The Entered OTP is not valid
+2018-06-20T08:56:02.613Z error: Please entter the correct password.
+2018-06-20T09:29:52.402Z error: Please entter the correct password.
+2018-06-20T09:51:18.570Z error: Please entter the correct password.
+2018-06-20T09:51:19.043Z error: Please entter the correct password.
+2018-06-20T09:51:19.884Z error: Please entter the correct password.
+2018-06-20T09:51:20.364Z error: Please entter the correct password.
+2018-06-20T09:51:20.898Z error: The user is blocked, wait for 5 minutes to be able to login again
+2018-06-20T13:35:51.252Z error: user is blocked
+2018-06-20T13:36:01.226Z error: user is blocked
+2018-06-20T13:36:09.419Z error: user is blocked
+2018-06-20T13:39:16.280Z error: user is blocked
+2018-06-20T14:27:05.481Z error: Please entter the correct password.
+2018-06-20T14:27:08.693Z error: Please entter the correct password.
+2018-06-20T14:27:09.910Z error: Please entter the correct password.
+2018-06-20T14:27:10.448Z error: Please entter the correct password.
+2018-06-20T14:27:10.826Z error: The user is blocked, wait for 5 minutes to be able to login again
+2018-06-20T15:35:06.488Z error: Please entter the correct password.
+2018-06-20T15:37:31.355Z error: Please entter the correct password.
+2018-06-20T15:37:32.639Z error: Please entter the correct password.
+2018-06-20T15:37:33.015Z error: Please entter the correct password.
+2018-06-20T15:37:33.346Z error: Please entter the correct password.
+2018-06-20T15:37:33.622Z error: The user is blocked, wait for 5 minutes to be able to login again
+2018-06-20T15:37:34.286Z error: The user is blocked, wait for 5 minutes to be able to login again
+2018-06-20T15:37:34.818Z error: The user is blocked, wait for 5 minutes to be able to login again
+2018-06-20T15:37:35.014Z error: The user is blocked, wait for 5 minutes to be able to login again
+2018-06-20T15:37:35.200Z error: The user is blocked, wait for 5 minutes to be able to login again
+2018-06-20T15:37:35.405Z error: The user is blocked, wait for 5 minutes to be able to login again
+2018-06-20T15:37:35.578Z error: The user is blocked, wait for 5 minutes to be able to login again
+2018-06-20T15:37:35.749Z error: The user is blocked, wait for 5 minutes to be able to login again
+2018-06-20T15:37:37.813Z error: The user is blocked, wait for 5 minutes to be able to login again
+2018-06-20T15:37:38.026Z error: The user is blocked, wait for 5 minutes to be able to login again
+2018-06-20T15:37:38.175Z error: The user is blocked, wait for 5 minutes to be able to login again
+2018-06-20T15:37:38.354Z error: The user is blocked, wait for 5 minutes to be able to login again
+2018-06-20T15:37:38.530Z error: The user is blocked, wait for 5 minutes to be able to login again
+2018-06-20T15:37:38.716Z error: The user is blocked, wait for 5 minutes to be able to login again
+2018-06-20T15:37:38.909Z error: The user is blocked, wait for 5 minutes to be able to login again
+2018-06-20T15:37:39.104Z error: The user is blocked, wait for 5 minutes to be able to login again
+2018-06-20T15:37:39.380Z error: The user is blocked, wait for 5 minutes to be able to login again
+2018-06-20T15:38:08.858Z error: The user is blocked, wait for 5 minutes to be able to login again
+2018-06-21T08:38:46.005Z error: User not found.
+2018-06-21T09:28:59.221Z error: An Error occured, possibily due to invalid address

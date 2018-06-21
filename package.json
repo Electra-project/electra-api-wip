@@ -1,0 +1,37 @@
+{
+  "name": "electra-backend",
+  "version": "1.0.0",
+  "description": "Blockchain based mobile wallet",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/sundaypyjamas/electra-backend.git"
+  },
+  "author": "Kiwispecs",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/sundaypyjamas/electra-backend#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "bip39": "^2.5.0",
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "crypto-js": "^3.1.9-1",
+    "eslint": "^4.19.1",
+    "express": "^4.16.3",
+    "express-validator": "^5.2.0",
+    "express-winston": "^2.5.1",
+    "mongoose": "^5.1.4",
+    "nodemailer": "^4.6.6",
+    "nodemon": "^1.17.5",
+    "request": "^2.87.0",
+    "winston": "^3.0.0"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.12.0"
+  }
+}
